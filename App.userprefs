@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{F8DB6DEE-DB11-488F-8D50-7C6C0AEF0947}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="App/Program.cs">
+    <Files>
+      <File FileName="App/Program.cs" Line="42" Column="6" />
+      <File FileName="App/iata.txt" Line="2" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.App PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
